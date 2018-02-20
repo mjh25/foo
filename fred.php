@@ -1,3 +1,3 @@
 <?php
-  echo "Fred flintstone";
+  echo "Fred";
   ?>
